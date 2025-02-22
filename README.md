@@ -4,6 +4,7 @@ Blog generator from CubyMark files
 > [!NOTE]
 > Development will start as soon as I fix my main phone.
 > It appears that my phone is not fixable anymore(
+> Development will start as soon as I finish the CubyMark file format
 
 I'm gonna need to work on Avocado already ...
 
